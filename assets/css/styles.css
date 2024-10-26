@@ -1,1 +1,13 @@
 # Estilos principais
+.section-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Centraliza verticalmente ocupando a altura total da viewport */
+}
+
+.object-fit-fill {
+    width: 100%;
+    height: auto;
+    max-width: 800px; /* Define um valor máximo para controlar o tamanho */
+}
