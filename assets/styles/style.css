@@ -115,3 +115,7 @@ a {
     font-weight: 900;
     font-style: italic;
 }
+
+p {
+    text-align: justify-all;
+}
