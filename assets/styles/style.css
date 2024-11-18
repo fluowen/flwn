@@ -123,6 +123,13 @@ p {
     color: #081d33;
 }
 
+a {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    text-align: justify-all;
+    color: #081d33;
+}
+
 h1 {
     font-family: "Poppins", sans-serif;
     font-style: normal;
