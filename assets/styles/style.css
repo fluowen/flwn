@@ -2,10 +2,7 @@ body {
     font-family: "Poppins", sans-serif;
     font-size: 1rem;
     line-height: 1.5;
-}
-
-a {
-    color: var(--bs-blue);
+    text-align: justify-all;
 }
 
 .poppins-thin {
@@ -128,6 +125,7 @@ a {
     font-style: normal;
     text-align: justify-all;
     color: #081d33;
+    color: var(--bs-blue);
 }
 
 h1 {
