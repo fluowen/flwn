@@ -1,8 +1,12 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
 body {
     font-family: "Poppins", sans-serif;
     font-size: 1rem;
     line-height: 1.5;
-    text-align: justify-all;
+    text-align: justify;
 }
 
 .poppins-thin {
@@ -116,14 +120,14 @@ body {
 p {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
 }
 
 a {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
     color: var(--bs-blue);
 }
@@ -131,34 +135,34 @@ a {
 h1 {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
 }
 
 h2 {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
 }
 
 h3 {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
 }
 
 h4 {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
 }
 
 h5 {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify-all;
+    text-align: justify;
     color: #081d33;
 }
