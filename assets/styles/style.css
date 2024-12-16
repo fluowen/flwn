@@ -120,14 +120,14 @@ body {
 p {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify;
+    text-align: left;
     color: #081d33;
 }
 
 a {
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    text-align: justify;
+    text-align: left;
     color: #081d33;
     color: var(--bs-blue);
 }
